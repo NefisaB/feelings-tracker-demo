@@ -16,8 +16,8 @@ function AddFeelingForm(props) {
     }
 
     return (
-        <div className='container'>
-            <form className="w-100" style={{ maxWidth: '50%', minWidth: '400px' }}>
+        <div className='container px-0'>
+            <form className='w-100' style={{ maxWidth: '80%', minWidth: '400px' }}>
                 <div>
                     <label className='form-label'>Name</label>
                     <input
